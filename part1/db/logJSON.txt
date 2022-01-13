@@ -1,1 +1,0 @@
-Internal server error! (Status 500)Signature verification failed/home/unn_w17004648/public_html/kf6012/coursework/part1/src/firebase/jwt/jwt.php137
